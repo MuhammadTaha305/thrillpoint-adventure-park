@@ -1,0 +1,25 @@
+# Compiled output
+bin/
+out/
+*.class
+
+# Generated at runtime
+*.ser
+*.csv
+audit_log.txt
+park_reports.txt
+
+# JavaFX SDK, if unzipped into the project
+javafx-sdk/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
